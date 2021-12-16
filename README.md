@@ -1,4 +1,4 @@
-## Ola eu sou o Otávio Lima, criadora de conteúdo de programação e tecnologia!
+## Ola eu sou o Otávio Lima, Apaixonado por Tecnologia!
 <div align="center">
   <a href="https://github.com/OtavioCostaLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioCostaLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
